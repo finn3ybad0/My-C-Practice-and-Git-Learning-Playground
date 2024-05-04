@@ -8,6 +8,9 @@
 
 int find_maximum(int array[], int length);
 
+
+// ==================   Main Body   ====================
+
 int main(){
 
     int list[]={3,4,5,7,24,74,2,6};
@@ -15,6 +18,9 @@ int main(){
 
     return 0;
 }
+
+// ==================   Functions   ====================
+
 
 int find_maximum(int array[], int length){
     int max= array[0];
