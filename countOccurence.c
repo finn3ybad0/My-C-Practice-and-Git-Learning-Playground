@@ -19,5 +19,4 @@ void count(int value,int array[],int length){
             counter++;
         }
     }
-    printf("the number of occurence of %d is : %d",value,counter);
 }
